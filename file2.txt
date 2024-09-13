@@ -1,0 +1,6 @@
+name:sangam
+college : jnvu
+skill:html css js
+tec skill :no
+soft skill: no
+achievenments:no
