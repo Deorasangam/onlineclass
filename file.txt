@@ -1,0 +1,3 @@
+name: sangam;
+project:vlc
+ 
